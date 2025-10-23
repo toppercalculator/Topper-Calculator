@@ -1,2 +1,2 @@
 # Topper-Calculator
-Topper Calculator is an online Attendance Percentage Calculator designed to help students check their attendance.
+Topper Calculator is an online Attendance Percentage Calculator designed to help students check their attendance in seconds. Whether you’re a student, parent, or professional, it lets you easily find out how many classes you’ve attended and how many more you need to meet your target percentage. Simply enter the total and attended classes, and the calculator instantly displays your attendance percentage. It also helps you plan ahead by showing how many classes you can safely miss or still need to attend. With Topper Calculator, you can save time, stay organized, and keep your attendance goals on track effortlessly.
